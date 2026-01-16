@@ -1,9 +1,0 @@
-module Base
-{
-    model ManholeCover
-    {
-        mesh = WorldItems/ManholeCover,
-		texture = WorldItems/ManholeCover,
-        scale = 1,
-    }
-}

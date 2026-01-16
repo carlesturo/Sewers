@@ -1,5 +1,0 @@
-ContextMenu_ES = {
-	ContextMenu_OpenManholeCover = "Abrir alcantarilla",
-	ContextMenu_Description_RequiresCrowbar = "Requiere palanqueta",
-	ContextMenu_CloseManholeCover = "Cerrar alcantarilla",
-}
