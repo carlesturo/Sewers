@@ -1,0 +1,15 @@
+module Base
+{
+    item Mov_ManholeCover
+    {
+        DisplayCategory = Furniture,
+        ItemType = base:moveable,
+        Icon = ManholeCover,
+        Weight = 10.0,
+		MetalValue = 500.0,
+		Tags = base:hasmetal;base:heavyitem;base:smeltableironlarge,
+        RequiresEquippedBothHands = true,
+        WorldObjectSprite = street_decoration_01_15,
+		WorldStaticModel = ManholeCover,
+    }
+}

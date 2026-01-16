@@ -1,0 +1,5 @@
+ContextMenu_EN = {
+	ContextMenu_OpenManholeCover = "Open Manhole Cover",
+	ContextMenu_Description_RequiresCrowbar = "Requires Crowbar",
+	ContextMenu_CloseManholeCover = "Close Manhole Cover",
+}

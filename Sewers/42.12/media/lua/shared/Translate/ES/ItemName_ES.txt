@@ -1,0 +1,3 @@
+ItemName_ES = {
+	ItemName_Base.Mov_ManholeCover = "Tapa de alcantarilla",
+}
